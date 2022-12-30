@@ -10,7 +10,7 @@
 <img width="100" src="https://user-images.githubusercontent.com/74450836/210068409-c157ab1f-97d4-46f0-948b-2e0a6596c1c0.png">
 
 3密チェッカーなど、スマホアプリを開発しています。<br/>
-詳しくは[**こちら**](https://play.google.com/store/apps/developer?id=%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)
+詳しくは [**こちら**](https://play.google.com/store/apps/developer?id=%E3%83%A9%E3%83%93%E3%83%83%E3%83%88%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)
 
 ----
 
